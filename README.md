@@ -1,6 +1,6 @@
 ### Hi there 👋 It's `mtaku3`
 
-- 🔭 I’m currently working on `AutoMuteUs-Portable`
+- 🔭 I’m currently working on `AutoMuteUs-Portable` and `STAN`
 - 🌱 I’m currently learning `Artificial Intelligence especially about Deep Learning`
 <!--
 - 👯 I’m looking to collaborate on ...
