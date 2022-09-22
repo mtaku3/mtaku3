@@ -1,8 +1,9 @@
 ### Hi there 👋 It's `mtaku3`
 
 - 🎓 I'm a student at National Institute of Technology, Kagoshima College
-- 🔭 I’m currently working on `AutoMuteUs-Portable` and `STAN`
-- 🌱 I’m currently learning `Artificial Intelligence especially about Deep Learning`
+<!-- - 🔭 I’m currently working on `AutoMuteUs-Portable` and `STAN` -->
+- 💯 I'm currently busy with life
+<!-- - 🌱 I’m currently learning `Artificial Intelligence especially about Deep Learning` -->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
