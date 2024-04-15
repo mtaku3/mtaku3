@@ -1,6 +1,6 @@
 ### Hi there 👋 It's `mtaku3`
 
-- 🎓 I'm a student at National Institute of Technology, Kagoshima College
+- 🎓 I'm a student at Tokyo Institute of Technology, Department of Computer Science.
 <!-- - 🔭 I’m currently working on `AutoMuteUs-Portable` and `STAN` -->
 - 💯 I'm currently busy with life
 <!-- - 🌱 I’m currently learning `Artificial Intelligence especially about Deep Learning` -->
