@@ -1,17 +1,7 @@
 ### Hi there 👋 It's `mtaku3`
 
-- 🎓 I'm a student at Tokyo Institute of Technology, Department of Computer Science.
-<!-- - 🔭 I’m currently working on `AutoMuteUs-Portable` and `STAN` -->
-- 💯 I'm currently busy with life
-<!-- - 🌱 I’m currently learning `Artificial Intelligence especially about Deep Learning` -->
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a student at Science Tokyo, Department of Computer Science.
+- Visit [my portfolio](https://mtaku3.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=mtaku3&show_icons=true&theme=radical&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
